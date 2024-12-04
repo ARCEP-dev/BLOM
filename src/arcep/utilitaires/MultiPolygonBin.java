@@ -15,7 +15,7 @@ import org.locationtech.jts.geom.Polygon;
 
 /**
  * Cette classe est utilisée pour calculer efficacement si un point est dans un Polygon ou multipolygon.
- * 
+ *
  * L'algorithme peut être vu ici :
  * https://erich.realtimerendering.com/ptinpoly/
  * 
