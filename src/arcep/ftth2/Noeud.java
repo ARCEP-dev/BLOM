@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024, Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
+ * Copyright (c) 2025, Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

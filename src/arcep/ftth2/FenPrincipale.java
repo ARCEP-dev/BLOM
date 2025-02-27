@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024, Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
+ * Copyright (c) 2025, Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -1178,7 +1178,7 @@ public class FenPrincipale extends JFrame {
 
         jEditorPane1.setEditable(false);
         jEditorPane1.setContentType("text/html"); // NOI18N
-        jEditorPane1.setText("<html>   <head>    </head>   <body>  <b>Modèle réseau d'accès BLOM et tarification du dégroupage v1.6 du 05/12/2024</b><br> <br> Direction économie, marchés et numérique<br> Autorité de régulation des communications électroniques, des postes et de la distribution de la presse<br> République française<br> <br> <i>Utilisation par un tiers possible sous la licence BSD 2-clause \"Simplified\" License détaillée en tête de chaque fichier source</i><br> <br><br><br> Ce modèle utilise les bibliothèques libres suivantes :<br> <br> •\tGeoTools<br> Traitement de fichiers et de données géographiques -  Licence publique générale limitée GNU<br> Utilisation de la version 17.1<br> http://geotools.org/<br> <br> •\tJGraphT<br> Structures et algorithmes de graphes – Licence publique générale limitée GNU ou Licence Publique Eclipse<br> http://www.jgrapht.org/<br> <br> •\tGuava<br> Utilitaires, classes génériques et autres fonctionnalités -  Licence Apache 2.0<br> https://github.com/google/guava/<br> <br> •\tKD-Tree<br> Indexation spatiale -  Licence publique générale limitée GNU<br> http://home.wlu.edu/~levys/software/kd/<br> <br>   </body> </html>  ");
+        jEditorPane1.setText("<html>   <head>    </head>   <body>  <b>Modèle réseau d'accès BLOM et tarification du dégroupage v1.7 du 27/02/2025</b><br> <br> Direction économie, marchés et numérique<br> Autorité de régulation des communications électroniques, des postes et de la distribution de la presse<br> République française<br> <br> <i>Utilisation par un tiers possible sous la licence BSD 2-clause \"Simplified\" License détaillée en tête de chaque fichier source</i><br> <br><br><br> Ce modèle utilise les bibliothèques libres suivantes :<br> <br> •\tGeoTools<br> Traitement de fichiers et de données géographiques -  Licence publique générale limitée GNU<br> Utilisation de la version 17.1<br> http://geotools.org/<br> <br> •\tJGraphT<br> Structures et algorithmes de graphes – Licence publique générale limitée GNU ou Licence Publique Eclipse<br> http://www.jgrapht.org/<br> <br> •\tGuava<br> Utilitaires, classes génériques et autres fonctionnalités -  Licence Apache 2.0<br> https://github.com/google/guava/<br> <br> •\tKD-Tree<br> Indexation spatiale -  Licence publique générale limitée GNU<br> http://home.wlu.edu/~levys/software/kd/<br> <br>   </body> </html>  ");
         jScrollPane3.setViewportView(jEditorPane1);
 
         jPanel5.add(jScrollPane3, java.awt.BorderLayout.CENTER);
